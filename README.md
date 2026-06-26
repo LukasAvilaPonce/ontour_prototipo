@@ -1,5 +1,6 @@
 # On Tour — Prototipo Web
-
+![On Tour - Captura](assets/screenshot.png)
+![On Tour - Dashboard](assets/dashboard.png)
 Prototipo de plataforma web para una agencia de viajes, desarrollado como evaluación del curso de Desarrollo Frontend (Duoc UC). Simula el flujo de una agencia con acceso diferenciado por roles: **Apoderado**, **Ejecutivo** y **Gerencia**.
 
 ## 🔗 Demo en vivo
